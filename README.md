@@ -1,10 +1,10 @@
 # farm-prototype
 very simple basic farm prototype
 
-controls:
+controls:\
 W - up\
 A - left\
 S - down\
-D - right\
+D - right
 
 E - plant seeds
