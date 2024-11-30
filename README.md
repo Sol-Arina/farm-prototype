@@ -2,9 +2,9 @@
 very simple basic farm prototype
 
 controls:
-W - up
-A - left
-S - down
-D - right
+W - up\
+A - left\
+S - down\
+D - right\
 
 E - plant seeds
